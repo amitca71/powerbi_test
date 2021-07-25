@@ -15,3 +15,7 @@ from:
 ![image](https://user-images.githubusercontent.com/5821916/126669862-37bb3b06-ec4d-495f-a3c2-9e4edf5fd110.png)
 https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps ( powerbi)
 
+
+
+
+sds
